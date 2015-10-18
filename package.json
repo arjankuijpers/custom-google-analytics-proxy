@@ -1,0 +1,45 @@
+{
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-concat": "~0.4.0",
+    "grunt-contrib-uglify": "~0.5.0"
+  },
+  "name": "cocoonjs-google-analytics-proxy",
+  "description": "cocoonJS-Google-analytics-proxy, see github repo: cocoonJS-Google-analytics\r =========================",
+  "version": "1.0.0",
+  "author": "Arjan Kuijpers",
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "homepage": "https://github.com/arjankuijpers/customanalytics-proxy#readme",
+  "main": "src/custom-google-analytics-proxy.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://arjankuijpers@github.com/arjankuijpers/cocoonJS-Google-analytics-proxy.git"
+  },
+  "keywords": [
+    "custom",
+    "analytics",
+    "google",
+    "cocoonjs",
+    "ludei",
+    "js",
+    "javascript"
+  ]
+}
