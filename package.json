@@ -22,7 +22,7 @@
     }
   ],
   "homepage": "https://github.com/arjankuijpers/customanalytics-proxy#readme",
-  "main": "custom-google-analytics-proxy.js",
+  "main": "src/custom-google-analytics-proxy.js",
   "directories": {
     "doc": "docs"
   },
