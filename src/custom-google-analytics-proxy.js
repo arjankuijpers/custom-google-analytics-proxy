@@ -44,7 +44,7 @@ server = http.createServer( function(req, res) {
 });
 
 port = process.env.PORT || 3000; // process.env.PORT is used for Heroku, because Heroku Dynamicly assigns a port.
-host = '127.0.0.1';
+host = '0.0.0.0';
 server.listen(port, host);
 console.log('Listening at http://' + host + ':' + port);
 
